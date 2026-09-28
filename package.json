@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/cleanslug",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Clean and reshape slug text streams with deterministic transforms.",
+  "bin": {
+    "cleanslug": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/cleanslug.git"
+  },
+  "homepage": "https://theworker02.github.io/cleanslug/",
+  "keywords": [
+    "clean",
+    "slug",
+    "text",
+    "cli",
+    "toolkit"
+  ]
+}
